@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127350227746",
+    "project_id": "zep-poker",
+    "storage_bucket": "zep-poker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127350227746:android:5c64623bcc9e22481b9b7b",
+        "android_client_info": {
+          "package_name": "com.example.zep_poker0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZxxpXr-rW8ll_fkNS-6cCFeGDKDCPhZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
